@@ -108,7 +108,7 @@ print("Wybierz działanie: \n"
       "7. Aktualna prędkość\n"
       "8. Kasowanie błędów\n"
       "9. Wyjście\n")
-wybor = int(input())
+wybor = input()
 if wybor == 1:
     wyswietl_liste_bledow()
 elif wybor == 2:
